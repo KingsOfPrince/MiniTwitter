@@ -1,3 +1,66 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Chirp';
+  background-color: rgb(0, 0, 0);
+}
+
+
+.home-head{
+  text-align: center;
+  color:aliceblue;
+
+}
+
+.tweet-button{
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  background-color: rgb(50, 96, 203);
+  padding: 10px;  
+  border-radius: 20px;
+  text-decoration: none;
+  border: none;
+  font-size: 20px;
+}
+.tweet-box{
+  outline: 10px;
+  padding: 30px;
+  border-radius: 40px;
+  text-align: center;
+  width: 700px;
+}
+.tweet-box-div{
+  text-align: center;
+  margin: 100px;
+}
+
+.tweet-text{
+color: aliceblue;
+text-align: center;
+background-color: rgb(45, 45, 45);
+padding: 20px;
+border-radius: 100px;
+margin: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#particles-js canvas {
+  display: block;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
 }
