@@ -1,5 +1,9 @@
 var tweet = document.getElementById("tweet");
-
+/**
+ * Copied from ük 294 
+ * The funtions will be changed inorder to meet the rquriements of the project
+ * @Autor : Manuel Sollberger and Stephan Hug
+ */
 var productsTable = document.getElementById("products-table");
 
 /**
