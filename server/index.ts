@@ -10,7 +10,6 @@ class Backend {
   private _api: API
   private _database: Database
   private _env: string
-
   // Getters
   public get app(): Express {
     return this._app
